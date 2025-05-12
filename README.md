@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 I,m Pandu Setia Darmawan
+
+![welcome](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmczc2NpemNoYmtoMmM0c2Z2eXJtOHFsbWc3aWR6dGE2eGxzbXlwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWtJrVD5I2WIJRmfAw/giphy.gif)
 
 <!--
 **codewithpandu/codewithpandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
