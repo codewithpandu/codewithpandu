@@ -1,7 +1,5 @@
 ## Hi there 👋 I,m Pandu Setia Darmawan
 
-![welcome](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJycnpyaGJ4aXZ0b2E0OWNkdzFtanJ1bTI0cG5lMDFkN2o4NHI0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWtJrVD5I2WIJRmfAw/giphy.gif)
-
 
 #### Skills
 
